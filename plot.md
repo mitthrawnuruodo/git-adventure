@@ -21,3 +21,5 @@ Theseus decided to make a post on a forum offering his application to anyone who
 The next morning, Theseus saw that he had an email notification. Someone had forked his repository, adding their own solution. They requested a Pull Review to merge their code into his.
 
 Looking at the diff diagram, he could see the elegant solution to his bug. He checked out the new branch and tested on his computer. Happy that it worked perfectly, he accepted the pull request.
+
+The morning after that, he had more emails from more contributors. Although some were not good enough to be added, the others were useful and written well. Soon, Theseus spent little time writing new code for his project, instead managing discussions, reviewing pull requests and creating release tags.
