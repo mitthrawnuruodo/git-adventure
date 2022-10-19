@@ -19,3 +19,5 @@ Theseus decided to make a post on a forum offering his application to anyone who
 ## Chapter Two
 
 The next morning, Theseus saw that he had an email notification. Someone had forked his repository, adding their own solution. They requested a Pull Review to merge their code into his.
+
+Looking at the diff diagram, he could see the elegant solution to his bug. He checked out the new branch and tested on his computer. Happy that it worked perfectly, he accepted the pull request.
