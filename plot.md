@@ -14,4 +14,4 @@ Bit by bit, Theseus' application took shape. Although it was not perfect, it was
 
 One day Theseus found himself stuck on a bug in a new feature. Despite reading hundreds of pages of documentation and discussions, the solution eluded Theseus.
 
-Theseus decided to...
+Theseus decided to make a post on a forum offering his application to anyone who wanted to use it for free. He described its purpose, features and his plan for the future and spent that evening answering questions from the community.
